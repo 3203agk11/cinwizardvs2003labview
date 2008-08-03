@@ -1,0 +1,3 @@
+Put .vsdir, .vsz and .ico files to "D:\Program Files\Microsoft Visual Studio .NET 2003\Vc7\vcprojects\",
+create CINTOOLSDIR environment variable (or point wizard to it). Restart Vs.NET 2003 and be happy.
+// mzu
