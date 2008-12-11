@@ -1,5 +1,6 @@
-#summary The main and the only page for the project at this time
+#summary The main and the only page for the project at this time.
 #labels Featured
+#page represents the article in LabVIEW technical resource as it SHOULD be
 
 = Introduction =
 
